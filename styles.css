@@ -13,7 +13,7 @@ main {
 
 #card {
     background-color: white;
-    height: 600px;
+    height: 800px;
     width: 300px;
     padding: 1em;
     display: flex;
@@ -26,4 +26,8 @@ img {
     width: 100%;
     margin: 1em 0 0 0;
 
+}
+
+hr {
+    background-color: black;
 }
