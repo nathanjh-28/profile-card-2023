@@ -10,5 +10,12 @@ main {
     background-color: white;
     height: 500px;
     width: 300px;
+    padding: 5em;
+
+}
+
+img {
+    border-radius: 50%;
+    width: 100%;
 
 }
