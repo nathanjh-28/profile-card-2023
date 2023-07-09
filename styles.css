@@ -37,3 +37,16 @@ h1,
 .subtitle {
     text-align: center;
 }
+
+button {
+    height: 2em;
+    font-size: 1.2em;
+    background-color: lightblue;
+    border: none;
+    border-radius: 8px;
+}
+
+button:hover {
+    background-color: lightgray;
+    cursor: pointer;
+}
