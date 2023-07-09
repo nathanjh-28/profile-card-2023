@@ -31,3 +31,9 @@ img {
 hr {
     background-color: black;
 }
+
+#stickers-header,
+h1,
+.subtitle {
+    text-align: center;
+}
